@@ -1,0 +1,24 @@
+name: David score: 21 vs name: Franz score: 5 to 20
+test 
+test 
+test 
+test 
+name: David score: 24 vs name: pc score: 15 to 20
+test 
+name: David score: 67 vs name: Franz score: 8 to 50
+test 
+test 
+test 
+name: DAvid score: 59 vs name: pc score: 8 to 50
+name: David score: 23 vs name: pc score: 0 to 20
+name: David score: 16 vs name: Franz score: 50 to 20
+test 
+name: David score: 10 vs name: pc score: 23 to 20
+name: David score: 21 vs name: Franz score: 0 to 20
+name: David score: 21 vs name: pc score: 0 to 20
+name: David score: 25 vs name: Franz score: 0 to 20
+test 
+name: David score: 56 vs name: pc score: 0 to 20
+test 
+name: David score: 5 vs name: pc score: 26 to 20
+name: David score: 22 vs name: franz score: 0 to 20
