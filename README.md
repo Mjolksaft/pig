@@ -79,3 +79,46 @@ now to generate documentation use the following command
 
 this will create uml diagrams and documentation in the folder doc which is located in the pig folder
 you can then open the documnenation and um in your browser 
+
+=============================================================
+How to run the liners
+============================================================
+to use the linters use the command
+
+    make lint 
+
+this will use flake 8 and pylint
+
+=============================================================
+how to run unittests
+=============================================================
+run all the unit tests by using the command
+
+    make unittest
+
+to run and get coverage on the unittest use the command
+
+    make coverage
+
+to run the linters and unittests at the same time use the command 
+
+    make test 
+
+==============================================================
+how to clean up repo 
+===============================================================
+use these git commands to clean the dir
+
+    make clean 
+
+make clean removes coverage, __pychache__ and htmlcov
+
+    make clean-doc
+
+clean the doc folder
+
+    make clean all 
+
+clean all runs the clean and clean-doc
+
+================================================================
